@@ -1,0 +1,16 @@
+streamlit
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-dotenv
+pandas
+numpy
+streamlit-agraph
+networkx
+groq
+annotated-text
+reportlab
